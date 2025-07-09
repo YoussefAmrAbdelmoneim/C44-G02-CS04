@@ -66,6 +66,18 @@
             //}
             //Console.WriteLine($"Reversed word: {reversed}");
             #endregion
+            #region Q7
+            //Console.Write("Enter a number: ");
+            //int.TryParse(Console.ReadLine(), out int numbers);
+            //int reversed = 0;
+            //while (numbers != 0)
+            //{
+            //    int number = numbers % 10;
+            //    reversed = reversed * 10 + number;
+            //    numbers /= 10;
+            //}
+            //Console.WriteLine($"Reversed number: {reversed}");
+            #endregion
         }
     }
 }
