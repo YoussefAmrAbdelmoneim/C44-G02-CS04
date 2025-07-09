@@ -43,6 +43,19 @@
             //}
             //Console.WriteLine(result);
             #endregion
+            #region Q5
+            //Console.WriteLine("Enter marks of five subjects :");
+            //float subjects;
+            //float sum = 0;
+            //for (int i = 0; i < 5; i++)
+            //{
+            //   float.TryParse(Console.ReadLine() , out subjects);
+            //    sum+= subjects;
+            //}
+            //Console.WriteLine($"Total marks = {sum}");
+            //Console.WriteLine($"Average Marks = {sum/5}");
+            //Console.WriteLine($"Percentage ={(sum/500)*100}%");
+            #endregion
         }
     }
 }
