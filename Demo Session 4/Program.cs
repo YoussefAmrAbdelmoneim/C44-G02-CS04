@@ -159,6 +159,32 @@
             //}
             #endregion
             #endregion
+            #region Video 05
+            #region do-while
+            //bool isParsed;
+            //int number;
+            //do
+            //{
+            //    Console.WriteLine("Please enter an even number : ");   
+            //    isParsed = int.TryParse(Console.ReadLine(), out number);
+            //}
+            //while (!isParsed || number %2==1);
+            //Console.WriteLine($"{number} is an even number");
+            #endregion
+            #region While
+           // int number;
+           // Console.WriteLine("Enter a number :");
+           //bool isParsed = int.TryParse(Console.ReadLine(), out number);
+           // if (isParsed)
+           // {
+           //     while (number <=10)
+           //     {
+           //       Console.WriteLine(number);
+           //         number++;
+           //     }
+           // }
+            #endregion
+            #endregion
         }
     }
 }
