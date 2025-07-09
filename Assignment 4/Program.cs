@@ -120,6 +120,29 @@
             //}
             //Console.WriteLine($"Binary number: {binary}");
             #endregion
+            #region Q10
+            //Console.Write("Enter x1: ");
+            //double.TryParse(Console.ReadLine(), out double x1);
+            //Console.Write("Enter y1: ");
+            //double.TryParse(Console.ReadLine(),out double y1);
+            //Console.Write("Enter x2: ");
+            //double.TryParse(Console.ReadLine(),out double x2);
+            //Console.Write("Enter y2: ");
+            //double.TryParse(Console.ReadLine(),out double y2);
+            //Console.Write("Enter x3: ");
+            //double.TryParse(Console.ReadLine(),out double x3);
+            //Console.Write("Enter y3: ");
+            //double.TryParse(Console.ReadLine(),out double y3);
+            //double area = 0.5 * ((x1 * (y2 - y3)) + (x2 * (y3 - y1)) + (x3 * (y1 - y2)));
+            //if (area == 0)
+            //{
+            //    Console.WriteLine("The points lie on a straight line.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("The points don't lie on a straight line.");
+            //}
+            #endregion
         }
     }
 }
