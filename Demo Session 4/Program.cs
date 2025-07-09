@@ -144,6 +144,21 @@
             //};
             #endregion
             #endregion
+            #region Video 04
+            #region For - Foreach
+            //int[] numbers = { 1, 2, 3, 4, 5 };
+            //for (int i = 0; i <numbers.Length; i++)
+            //{
+            //    numbers[i] += 10; //valid
+            //    Console.WriteLine(numbers[i]);
+            //}
+            //foreach (int item in numbers)
+            //{
+            //    item += 10 //invalid
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+            #endregion
         }
     }
 }
