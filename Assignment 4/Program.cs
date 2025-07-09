@@ -78,6 +78,34 @@
             //}
             //Console.WriteLine($"Reversed number: {reversed}");
             #endregion
+            #region Q8
+            //Console.WriteLine("Enter starting number of ranges: ");
+            //int.TryParse(Console.ReadLine(), out int start);
+            //Console.WriteLine("Enter ending number of range : ");
+            //int.TryParse(Console.ReadLine(), out int end);
+            //Console.WriteLine($"Prime numbers between {start} and {end} are :");
+            //    for (int num = start; num <= end; num++)
+            //    {
+            //        if (num <= 1)
+            //            continue;
+
+            //        bool isPrime = true;
+
+            //        for (int i = 2; i < num; i++)
+            //        {
+            //            if (num % i == 0)
+            //            {
+            //                isPrime = false;
+            //                break;
+            //            }
+            //        }
+
+            //        if (isPrime)
+            //        {
+            //            Console.WriteLine(num);
+            //        }
+            //    }
+            #endregion
         }
     }
 }
