@@ -1,4 +1,6 @@
-﻿namespace Demo_Session_4
+﻿using System.Text;
+
+namespace Demo_Session_4
 {
     internal class Program
     {
@@ -212,7 +214,7 @@
             //Console.WriteLine(message.GetHashCode());
             #endregion
             #region string methods
-            string message = " Hello Route";
+            //string message = " Hello Route";
             //Console.WriteLine(message.Length);
             //Console.WriteLine(message.ToUpper());
             //Console.WriteLine(message.ToLower());
@@ -222,6 +224,31 @@
             //Console.WriteLine(message.Substring(0,5));
             //Console.WriteLine(message.Replace('e','M'));
             //Console.WriteLine(message.Contains('o'));
+            #endregion
+            #endregion
+            #region Video 07
+            #region Stringbuilder
+            //StringBuilder message;
+            //message = new StringBuilder("Hello");
+            //Console.WriteLine($"message = {message}");
+            //message.Clear();
+            //message.Append( "Route");
+            //Console.WriteLine("After changing message");
+            //Console.WriteLine($"message {message}");
+            //Console.WriteLine($"hashcode of message = {message.GetHashCode()}");
+            //message.Append(" Academy");
+            //Console.WriteLine($"message {message}");
+            //Console.WriteLine($"hashcode of message = {message.GetHashCode()}");
+            #endregion
+            #region MyRegion
+            //StringBuilder message = new StringBuilder("Hello");
+            //message.Append(" Route");
+            //message.AppendLine(" welcome");
+            //message.Append("New Student");
+            //message.Replace("New Student","Amr");
+            //message.Remove(0, 5);
+            //message.Insert(0,"Hi");
+            //Console.WriteLine(message);
             #endregion
             #endregion
         }
