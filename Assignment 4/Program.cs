@@ -106,6 +106,20 @@
             //        }
             //    }
             #endregion
+            #region Q9
+            //Console.Write("Enter a number to convert : ");
+            //int.TryParse(Console.ReadLine(), out int number);
+            //int binary = 0;
+            //int place = 1;
+            //while (number > 0)
+            //{
+            //    int remainder = number % 2;
+            //    binary = binary + (remainder * place);
+            //    place *= 10;
+            //    number /= 2;
+            //}
+            //Console.WriteLine($"Binary number: {binary}");
+            #endregion
         }
     }
 }
