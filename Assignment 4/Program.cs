@@ -56,6 +56,16 @@
             //Console.WriteLine($"Average Marks = {sum/5}");
             //Console.WriteLine($"Percentage ={(sum/500)*100}%");
             #endregion
+            #region Q6
+            //Console.WriteLine("Enter word to reverse :");
+            //string word = Console.ReadLine() ?? "0";
+            //string reversed = "";
+            //for (int i = word.Length -1; i >=0 ; i--)
+            //{
+            //    reversed += word[i];
+            //}
+            //Console.WriteLine($"Reversed word: {reversed}");
+            #endregion
         }
     }
 }
