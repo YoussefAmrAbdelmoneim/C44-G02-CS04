@@ -172,17 +172,56 @@
             //Console.WriteLine($"{number} is an even number");
             #endregion
             #region While
-           // int number;
-           // Console.WriteLine("Enter a number :");
-           //bool isParsed = int.TryParse(Console.ReadLine(), out number);
-           // if (isParsed)
-           // {
-           //     while (number <=10)
-           //     {
-           //       Console.WriteLine(number);
-           //         number++;
-           //     }
-           // }
+            // int number;
+            // Console.WriteLine("Enter a number :");
+            //bool isParsed = int.TryParse(Console.ReadLine(), out number);
+            // if (isParsed)
+            // {
+            //     while (number <=10)
+            //     {
+            //       Console.WriteLine(number);
+            //         number++;
+            //     }
+            // }
+            #endregion
+            #endregion
+            #region Video 06
+            #region Ex1
+            //string name;
+            //name = new string("Route");
+            //Console.WriteLine($"Name {name}");
+            //Console.WriteLine($"HashCode Name {name.GetHashCode()}");
+            //string name02 = "Route";
+            //Console.WriteLine($"name02 {name02}");
+            #endregion
+            #region Ex2
+            //string name01 = "Amr";
+            //string name02 = "May";
+            //Console.WriteLine($"Name01 : {name01}");
+            //Console.WriteLine($"HashCode Name {name01.GetHashCode()}");
+            //Console.WriteLine($"Name01 : {name02}");
+            //Console.WriteLine($"HashCode Name {name02.GetHashCode()}");
+            #endregion
+            #region Ex3
+            //string message = "Hello";
+            //Console.WriteLine(message);
+            //Console.WriteLine(message.GetHashCode());
+            //message + = "Route";
+            //Console.WriteLine("After changing in Message");
+            //Console.WriteLine(message);
+            //Console.WriteLine(message.GetHashCode());
+            #endregion
+            #region string methods
+            string message = " Hello Route";
+            //Console.WriteLine(message.Length);
+            //Console.WriteLine(message.ToUpper());
+            //Console.WriteLine(message.ToLower());
+            //Console.WriteLine(message.Trim());
+            //Console.WriteLine(message.TrimEnd());
+            //Console.WriteLine(message.TrimStart());
+            //Console.WriteLine(message.Substring(0,5));
+            //Console.WriteLine(message.Replace('e','M'));
+            //Console.WriteLine(message.Contains('o'));
             #endregion
             #endregion
         }
