@@ -111,6 +111,39 @@
             //};
             #endregion
             #endregion
+            #region Video 03
+            #region Ex1 Relational Patterns
+            //int number = 20;
+            //string result = number switch
+            //{
+            //    <10 => "Less than 10",
+            //    >=10 and <=20 => "Number is between 10 and 20",
+            //    >20 => "Number is greater than 20"
+            //};
+            //Console.WriteLine(result);
+            #endregion
+            #region Ex2 Logical Patterns
+            //int number = 10;
+            //string result = number switch
+            //{
+            //    >0 and <10 => "Number is between 1 and 9",
+            //    >= 10 and <= 20 => "Number is between 10 and 20",
+            //    > 0 => "Number is 0",
+            //    > 20 or < 0 => "Number is outside the range"
+            //};
+            //Console.WriteLine(result);
+            #endregion
+            #region Ex3 Enhanced Property matching
+            //Person person = new Person() { Id = 10, Name = "Omar", Age = 25 };
+            //string result = person switch
+            //{
+            //    { Name: "Samy", Age: 10 } => "Hello Samy",
+            //    { Name: "Omar" , Age: >=20 and <=24 } => "Hello Omar",
+            //    { Age: >50 and <60 } => "Hello old man",
+            //    _ => "Sorry we don't know you"
+            //};
+            #endregion
+            #endregion
         }
     }
 }
