@@ -31,6 +31,18 @@
             //    }
             //}
             #endregion
+            #region Q4
+            //Console.WriteLine("Please enter a number: ");
+            //int.TryParse(Console.ReadLine(), out int value);
+            //Console.WriteLine("Please enter power: ");
+            //int.TryParse(Console.ReadLine(), out int power);
+            //int result = 1;
+            //for (int i = 0; i < power; i++)
+            //{
+            //  result *= value;
+            //}
+            //Console.WriteLine(result);
+            #endregion
         }
     }
 }
