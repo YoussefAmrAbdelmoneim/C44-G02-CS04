@@ -20,6 +20,17 @@
             //    Console.WriteLine(i * value);
             //}
             #endregion
+            #region Q3
+            //Console.WriteLine("Please enter a number: ");
+            //int.TryParse(Console.ReadLine(), out int value);
+            //for (int i = 1; i < value; i++)
+            //{
+            //    if (i % 2 ==0)
+            //    {
+            //        Console.WriteLine($"Even : {i}");
+            //    }
+            //}
+            #endregion
         }
     }
 }
