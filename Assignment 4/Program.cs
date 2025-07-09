@@ -143,6 +143,22 @@
             //    Console.WriteLine("The points don't lie on a straight line.");
             //}
             #endregion
+            #region Q11
+            //Console.Write("Enter size of indentity matrix : ");
+            //int.TryParse(Console.ReadLine(), out int size);
+            //Console.WriteLine($"Identity matrix of size {size} x {size}:");
+            //for (int i = 0; i < size; i++)
+            //{
+            //    for (int j = 0; j < size; j++)
+            //    {
+            //        if (i == j)
+            //            Console.Write("1 ");
+            //        else
+            //            Console.Write("0 ");
+            //    }
+            //    Console.WriteLine();
+            //}
+            #endregion
         }
     }
 }
