@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region Q1
+            //Console.WriteLine("Please enter a number: ");
+            //int.TryParse(Console.ReadLine(), out int value);
+            //for (int i = 1; i <= value; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            #endregion
         }
     }
 }
