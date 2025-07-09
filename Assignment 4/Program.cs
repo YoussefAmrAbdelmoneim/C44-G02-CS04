@@ -12,6 +12,14 @@
             //    Console.WriteLine(i);
             //}
             #endregion
+            #region Q2
+            //Console.WriteLine("Please enter a number: ");
+            //int.TryParse(Console.ReadLine(), out int value);
+            //for (int i = 1; i <= 12; i++)
+            //{
+            //    Console.WriteLine(i * value);
+            //}
+            #endregion
         }
     }
 }
